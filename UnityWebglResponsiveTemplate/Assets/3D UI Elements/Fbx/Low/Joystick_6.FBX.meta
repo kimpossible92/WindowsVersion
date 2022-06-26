@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 98ae1a749af78a543ae77308d4dcd89f
+timeCreated: 1463027274
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Joystick_6_1
+    100004: Joystick_6_10
+    100006: Joystick_6_2
+    100008: Joystick_6_3
+    100010: Joystick_6_4
+    100012: Joystick_6_5
+    100014: Joystick_6_6
+    100016: Joystick_6_7
+    100018: Joystick_6_8
+    100020: Joystick_6_9
+    400000: //RootNode
+    400002: Joystick_6_1
+    400004: Joystick_6_10
+    400006: Joystick_6_2
+    400008: Joystick_6_3
+    400010: Joystick_6_4
+    400012: Joystick_6_5
+    400014: Joystick_6_6
+    400016: Joystick_6_7
+    400018: Joystick_6_8
+    400020: Joystick_6_9
+    2300000: Joystick_6_1
+    2300002: Joystick_6_10
+    2300004: Joystick_6_2
+    2300006: Joystick_6_3
+    2300008: Joystick_6_4
+    2300010: Joystick_6_5
+    2300012: Joystick_6_6
+    2300014: Joystick_6_7
+    2300016: Joystick_6_8
+    2300018: Joystick_6_9
+    3300000: Joystick_6_1
+    3300002: Joystick_6_10
+    3300004: Joystick_6_2
+    3300006: Joystick_6_3
+    3300008: Joystick_6_4
+    3300010: Joystick_6_5
+    3300012: Joystick_6_6
+    3300014: Joystick_6_7
+    3300016: Joystick_6_8
+    3300018: Joystick_6_9
+    4300000: Joystick_6_5
+    4300002: Joystick_6_1
+    4300004: Joystick_6_6
+    4300006: Joystick_6_7
+    4300008: Joystick_6_8
+    4300010: Joystick_6_9
+    4300012: Joystick_6_4
+    4300014: Joystick_6_2
+    4300016: Joystick_6_10
+    4300018: Joystick_6_3
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIs/SampleUI/SampleUI-MainStyles.uss?fileID=7433441132597879392&amp;guid=15d6fdcc892062748ba1205dd684b7e6&amp;type=3#SampleUI-MainStyles" />
+    <ui:VisualElement name="spacer-top" class="ui-button-container" style="height: 665px; width: 625px; justify-content: flex-end; color: rgba(0, 0, 0, 0);" />
+    <ui:VisualElement name="ui-container" class="ui-container" style="align-items: stretch; justify-content: flex-start; flex-direction: row; width: 627px; height: 175px; -unity-background-image-tint-color: rgba(255, 255, 255, 0); color: rgba(0, 0, 0, 0); -unity-text-outline-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement name="button-container-1" class="ui-button-container" style="width: 426px; flex-direction: row; transform-origin: left top; -unity-background-scale-mode: scale-to-fit; -unity-text-align: upper-left; opacity: 1; visibility: visible; height: 112px;">
+            <ui:VisualElement name="1" class="ui-button ui-background-frame-anim" style="width: 300px; justify-content: center; flex-direction: row-reverse; align-items: flex-start;">
+                <ui:Label text="&lt;back" display-tooltip-when-elided="true" style="height: 61px; -unity-text-align: middle-center; white-space: nowrap; -unity-font-style: bold; font-size: 24px; color: rgb(245, 207, 0);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="button-container-1" class="ui-button-container" style="width: 426px; flex-direction: row; transform-origin: left top; -unity-background-scale-mode: scale-to-fit; -unity-text-align: upper-left; opacity: 1; visibility: visible; height: 112px;">
+            <ui:VisualElement name="0" class="ui-button ui-background-frame-anim" style="height: 89px; width: 103px; flex-direction: column; background-image: url(&apos;project://database/Assets/Sprites/home.png?fileID=21300000&amp;guid=da9cff84f1da92f4e9191aa354774a91&amp;type=3#home&apos;); border-left-color: rgb(219, 175, 175); border-right-color: rgb(219, 175, 175); border-top-color: rgb(219, 175, 175); border-bottom-color: rgb(219, 175, 175);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

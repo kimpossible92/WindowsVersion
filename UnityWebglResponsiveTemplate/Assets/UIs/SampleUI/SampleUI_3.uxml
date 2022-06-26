@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIs/SampleUI/SampleUI-MainStyles.uss?fileID=7433441132597879392&amp;guid=15d6fdcc892062748ba1205dd684b7e6&amp;type=3#SampleUI-MainStyles" />
+    <ui:VisualElement name="ui-container" class="ui-container" style="background-color: rgba(24, 24, 24, 0);">
+        <ui:VisualElement name="spacer-top" class="ui-button-container" />
+        <ui:VisualElement name="button-container-1" class="ui-button-container" style="height: 70px; width: 101px;">
+            <ui:VisualElement name="button-1" class="ui-button ui-background-frame-anim" style="height: 80px; width: 302px; align-items: center;">
+                <ui:Label text="о платформе" display-tooltip-when-elided="true" name="Label" style="-unity-text-align: lower-center; height: 53px; font-size: 25px; color: rgb(217, 201, 9); -unity-font-style: bold-and-italic; -unity-font: none;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="button-container-2" class="ui-button-container" style="height: 72px; width: 107px;">
+            <ui:VisualElement name="button-2" class="ui-button ui-background-frame-anim" style="width: 300px;">
+                <ui:Label text="приемущества" display-tooltip-when-elided="true" style="height: 61px; -unity-text-align: middle-center; white-space: nowrap; -unity-font-style: bold; font-size: 24px; color: rgb(245, 207, 0);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="spacer-bottom" class="ui-button-container" />
+    </ui:VisualElement>
+</ui:UXML>
